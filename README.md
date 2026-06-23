@@ -61,10 +61,10 @@ I enjoy solving real problems with clean, scalable software and I’m currently 
 💼 LinkedIn:https://www.linkedin.com/in/samson-demessie/
 🌐 Portfolio: https://www.samied.tech/
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=samson-16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=samson-16&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samson-16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samson-16&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=samson-16&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
