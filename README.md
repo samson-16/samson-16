@@ -55,7 +55,11 @@ I enjoy solving real problems with clean, scalable software and I’m currently 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge\&logo=netlify\&logoColor=00C7B7)
+## Contact
 
+📧 Email: samsondemessie@gmail.com  
+💼 LinkedIn:https://www.linkedin.com/in/samson-demessie/
+🌐 Portfolio: https://www.samied.tech/
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=samson-16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
