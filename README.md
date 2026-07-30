@@ -6,9 +6,10 @@ I'm a Software Engineering Graduate and full-stack developer, focused on buildin
 I enjoy solving real problems with clean, scalable software and I’m currently working with technologies like React,React Native, Next.js, Node.js, Express, Nestjs, FastAPI, PostgreSQL, and TypeScript.
 💞️ I am open to collaborating on exciting software development projects.<br>📫 How to reach me samsondemessie@gmail.com<br>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samson-demessie-99a282191/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Samsondemessie@gmail.com) 
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samson-demessie/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.samied.tech/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samsondemessie@gmail.com)
 
 ## 💻 Tech Stack
 
@@ -55,40 +56,6 @@ I enjoy solving real problems with clean, scalable software and I’m currently 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge\&logo=netlify\&logoColor=00C7B7)
-## Contact
 
-📧 Email: samsondemessie@gmail.com  
-💼 LinkedIn:https://www.linkedin.com/in/samson-demessie/
-🌐 Portfolio: https://www.samied.tech/
 
-## 🏆 GitHub Stats
 
-<div align="center">
-  
-  <!-- GitHub Profile Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=samson-16&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="Samson's GitHub Stats" />
-  
-  <br/><br/>
-
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samson-16&layout=compact&theme=onedark&hide_border=true" alt="Samson's Top Languages" />
-  
-</div>
-
-### 🔝 Top Contributed Repos
-
-<div align="center">
-  <!-- Top Contributed Repositories Card -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=samson-16&limit=4&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-</div>
-
-<br>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=samson-16&icon=0&color=0" alt="Profile Views">
-  </a>
-</p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
