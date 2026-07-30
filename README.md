@@ -61,16 +61,34 @@ I enjoy solving real problems with clean, scalable software and I’m currently 
 💼 LinkedIn:https://www.linkedin.com/in/samson-demessie/
 🌐 Portfolio: https://www.samied.tech/
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Stats
+
+<div align="center">
+  
+  <!-- GitHub Profile Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=samson-16&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="Samson's GitHub Stats" />
+  
+  <br/><br/>
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samson-16&layout=compact&theme=onedark&hide_border=true" alt="Samson's Top Languages" />
+  
+</div>
+
+### 🔝 Top Contributed Repos
+
+<div align="center">
+  <!-- Top Contributed Repositories Card -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=samson-16&limit=4&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+</div>
+
+<br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samson-16&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=samson-16&icon=0&color=0" alt="Profile Views">
+  </a>
 </p>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=samson-16&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=samson-16&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
