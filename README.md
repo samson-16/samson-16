@@ -58,7 +58,6 @@ I enjoy solving real problems with clean, scalable software and I’m currently 
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge\&logo=netlify\&logoColor=00C7B7)
 
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=samson-16&theme=darcula&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=samson-16&theme=darcula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
