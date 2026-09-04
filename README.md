@@ -4,7 +4,7 @@
 I'm a Software Engineering Graduate and full-stack developer, focused on building practical web applications,mobile apps, backend systems, and AI-powered tools.
 
 I enjoy solving real problems with clean, scalable software and I’m currently working with technologies like React,React Native, Next.js, Node.js, Express, Nestjs, FastAPI, PostgreSQL, and TypeScript.
-💞️ I am open to collaborating on exciting software development projects.<br>📫 How to reach me samsondemessie@gmail.com<br>
+💞️ I am open to collaborating on exciting software development projects.<br>📫 How to reach me samsondemessie@gmail.com<br> <br>+251975660501<br> 
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samson-demessie/) 
