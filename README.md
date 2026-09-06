@@ -6,10 +6,16 @@ I'm a Software Engineering Graduate and full-stack developer, focused on buildin
 I enjoy solving real problems with clean, scalable software and I’m currently working with technologies like React,React Native, Next.js, Node.js, Express, Nestjs, FastAPI, PostgreSQL, and TypeScript.
 💞️ I am open to collaborating on exciting software development projects.<br>📫 How to reach me samsondemessie@gmail.com // +251975660501<br> 
 
+
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samson-demessie/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.samied.me/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samsondemessie@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samson-demessie/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge\&logo=firefox\&logoColor=#FF7139)](https://www.samied.me/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:samsondemessie@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/Sami_Ed)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/sami_demessie)
+[![Phone](https://img.shields.io/badge/Phone-%2B251975660501.svg?style=for-the-badge\&logo=phone\&logoColor=white)](tel:+251975660501)
+
 
 ## 💻 Tech Stack
 
@@ -59,6 +65,8 @@ I enjoy solving real problems with clean, scalable software and I’m currently 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=samson-16&theme=darcula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 
 
